@@ -1,0 +1,30 @@
+_repo: Suuria-pyrkimyksia_73989
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoikkanen, Juho
+    birthdate: 1876
+    deathdate: 1947
+    gutenberg_agent_id: '57256'
+    url: http://www.gutenberg.org/2009/agents/57256
+    wikipedia: https://fi.wikipedia.org/wiki/Juho_Hoikkanen
+description: ''
+gutenberg_issued: '2024-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73989'
+language: fi
+pgterms:marc905: 20240617073505hokkanen
+pgterms:marc906: '1915'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: Suuria pyrkimyksiä
+url: http://www.gutenberg.org/ebooks/73989
